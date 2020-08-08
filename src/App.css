@@ -1,0 +1,19 @@
+.cursor {
+  cursor: unset;
+}
+.card-columns {
+  position: absolute;
+  left: 20%;
+  top: 20%;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 250px;
+}
+.sizing {
+  width: "250px";
+  max-height: "250px";
+}
